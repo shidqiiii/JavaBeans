@@ -5,11 +5,11 @@ Catatan :
 * Folder counter merupakan file untuk counter program
 
 ## Screenshoot
-* Tugas A Awal
+### Tugas A Awal
 ![Tugas A](Screenshoot/tugasAawal.PNG)
-* Tugas A Akhir
+### Tugas A Akhir
 ![Tugas A_1](Screenshoot/tugasAakhir.PNG)
-* Tugas B Awal
+### Tugas B Awal
 ![Tugas B](Screenshoot/tugasBawal.PNG)
-* Tugas A Akhir
+### Tugas A Akhir
 ![Tugas B_1](Screenshoot/tugasBakhir.PNG)

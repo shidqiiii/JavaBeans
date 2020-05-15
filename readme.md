@@ -1,8 +1,8 @@
 # Tugas Java Beans RSBK
 
 Catatan :
-* Folder utama yaitu berada pada src yang berada di dalam useComponent_Shidqi
-* Folder counter merupakan file untuk counter program
+* Folder utama yaitu folder useComponent_Shidqi
+* Folder counter merupakan folder untuk counter program
 
 ## Screenshoot
 ### Tugas A Awal

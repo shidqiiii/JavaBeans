@@ -11,5 +11,5 @@ Catatan :
 ![Tugas A_1](Screenshoot/tugasAakhir.PNG)
 ### Tugas B Awal
 ![Tugas B](Screenshoot/tugasBawal.PNG)
-### Tugas A Akhir
+### Tugas B Akhir
 ![Tugas B_1](Screenshoot/tugasBakhir.PNG)

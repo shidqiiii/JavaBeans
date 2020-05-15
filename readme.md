@@ -6,9 +6,9 @@ Catatan :
 
 ## Screenshoot
 Tugas A
-![Alt text](Screenshoot/tugasAawal.PNG)
-![Alt text](Screenshoot/tugasAakhir.PNG)
+![Tugas A](Screenshoot/tugasAawal.PNG)
+![Tugas A_1](Screenshoot/tugasAakhir.PNG)
 
 Tugas B
-![Alt text](Screenshoot/tugasBawal.PNG)
-![Alt text](Screenshoot/tugasBakhir.PNG)
+![Tugas B](Screenshoot/tugasBawal.PNG)
+![Tugas B_1](Screenshoot/tugasBakhir.PNG)
